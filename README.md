@@ -1,5 +1,7 @@
 # GNU/Linux
+================
 
+![](screenshot.jpg?raw=true)
 Software
 ------------
 
