@@ -1,0 +1,28 @@
+sw_volume: 47
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 0
+time: 6.292000
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Oasis/Definitely Maybe/03 Live Forever.flac
+1:Oasis/(What's The Story) Morning Glory/03 Wonderwall.flac
+2:Oasis/(What's The Story) Morning Glory/04 Don’t Look Back In Anger.flac
+3:Oasis/Heathen Chemistry/04 Stop Crying Your Heart Out.flac
+4:Anathema/Weather Systems/01 Untouchable, Part 1.flac
+5:Anathema/Weather Systems/02 Untouchable, Part 2.flac
+6:Anathema/Weather Systems/03 The Gathering Of The Clouds.flac
+7:Anathema/Weather Systems/04 Lightning Song.flac
+8:Anathema/Weather Systems/05 Sunlight.flac
+9:Anathema/Weather Systems/06 The Storm Before The Calm.flac
+10:Anathema/Weather Systems/07 The Beginning And The End.flac
+11:Anathema/Weather Systems/08 The Lost Child.flac
+12:Anathema/Weather Systems/09 Internal Landscapes.flac
+playlist_end
