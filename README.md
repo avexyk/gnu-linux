@@ -1,4 +1,4 @@
-# GNU/Linux
+GNU/Linux
 ================
 
 ![](screenshot.jpg?raw=true)
