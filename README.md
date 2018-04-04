@@ -8,7 +8,7 @@ Software
 
 Configuración actual:
 
-* **OS**: Debian 9 GNU/Linux 9.4 Stretch x86_64
+* **OS**: Debian GNU/Linux 9.4 Stretch x86_64
 * **Kernel**: 4.9.0-6-amd64
 * **Packages**: 2221
 * **Shell**: bash 4.4.12
