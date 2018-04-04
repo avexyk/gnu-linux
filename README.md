@@ -1,7 +1,7 @@
 GNU/Linux
 ================
 
-![](screenshot.jpg?raw=true)
+![](screenshot.png?raw=true)
 Software
 ------------
 
