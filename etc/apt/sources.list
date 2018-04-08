@@ -1,0 +1,14 @@
+# debian estable
+deb http://ftp.mx.debian.org/debian/ stretch main non-free contrib
+deb-src http://ftp.mx.debian.org/debian/ stretch main non-free contrib
+
+# actualizaciones de seguridad
+deb http://security.debian.org/debian-security stretch/updates main contrib non-free
+deb-src http://security.debian.org/debian-security stretch/updates main contrib non-free
+
+# stretch-updates
+deb http://ftp.mx.debian.org/debian/ stretch-updates main contrib non-free
+deb-src http://ftp.mx.debian.org/debian/ stretch-updates main contrib non-free
+
+# virtual-box
+deb https://download.virtualbox.org/virtualbox/debian stretch contrib
